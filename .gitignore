@@ -1,0 +1,6 @@
+.pioenvs
+.piolibdeps
+src/*.h.gch
+pray/*.aiff
+pray/*.mp3
+!pray/pray1.mp3
